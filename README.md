@@ -13,9 +13,9 @@ Project Features
 Upcoming Enhancements (Backend Development)
 
 I plan to integrate a backend system to make the webpage dynamic. The backend will be built using:
-🔹 Node.js & Express.js – For handling server-side logic.
-🔹 MongoDB/MySQL – For database management.
-🔹 User Authentication – Secure login & signup system.
-🔹 Order Processing – Manage purchases and transactions.
+* Node.js & Express.js – For handling server-side logic.
+* MongoDB/MySQL – For database management.
+* User Authentication – Secure login & signup system.
+* Order Processing – Manage purchases and transactions.
 
 Stay tuned for backend updates!!
